@@ -1,0 +1,14 @@
+.container {
+    border: 1px solid black;
+    display: flex;
+    flex-direction: row;
+    width: 100vw;
+    justify-content: space-evenly;
+}
+
+
+
+img {
+    max-height: 200px;
+}
+
